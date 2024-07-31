@@ -1,0 +1,79 @@
+*{
+    margin: 0px;
+  
+
+}
+#logo{
+    top: 0%;
+    width: 100%;
+    background-color: red;
+    position: fixed;
+   
+}
+#hi{
+    width: 170px;
+    height: 70px;
+}
+#d1{
+    font-size: larger;
+    margin-left: 25px;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ color: white;
+
+}
+#d2{ font-size: larger;
+    margin-left: 40px;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ color: blue;
+
+}
+#d3{
+    font-size: larger;
+    margin-left: 60px;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+#d4{
+    font-size: larger;
+    margin-left: 80px;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ color: darkgreen;
+
+}
+#d5{
+    font-size: larger;
+    margin-left: 100px;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ color: yellow;
+
+}
+.col{
+    width: 300px;
+    height: 350px;
+    background-color: black;
+    border: solid 1px ;
+    border-color: white;
+   color: white;
+  
+   float: left;
+   
+
+}
+#Document{
+    color: yellow;
+}
+#BOOK{
+    text-align: center;
+    color: blue;
+}
+u{
+    color: blue;
+}
+#main{
+    height: 500px;
+    background-image: url('https://w0.peakpx.com/wallpaper/719/798/HD-wallpaper-book-pages-bw-text.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+  
+
+}
